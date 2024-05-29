@@ -1,4 +1,4 @@
- ** Shopping Cart with Context API **
+ # Shopping Cart with Context API
  
 This project is a simple shopping cart application built using React and Context API. It demonstrates how to manage global state for a shopping cart in a React application.
 
