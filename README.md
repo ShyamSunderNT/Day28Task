@@ -1,8 +1,16 @@
-# React + Vite
+ ** Shopping Cart with Context API **
+ 
+This project is a simple shopping cart application built using React and Context API. It demonstrates how to manage global state for a shopping cart in a React application.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Introduction
 
-Currently, two official plugins are available:
+This application showcases the use of the Context API to manage a shopping cart in a React application. The Context API allows for state to be shared and managed across multiple components without the need for prop drilling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ # Features
+Add items to the cart
+
+Remove items from the cart
+
+Total item quantities
+
+Display total price
